@@ -1,6 +1,7 @@
 # TODO: Add comment
 # 
 # Author: sridhar
+#https://github.com/apsridhar/Bridge-Week1-R
 ###############################################################################
 
 #1. Write a loop that calculates 12-factorial
